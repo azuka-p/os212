@@ -3,3 +3,4 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 5 L03 Setting up GitHub
 ZCZC W00 1 L03 Fixing typo in mylog.txt
+ZCZC W00 120 L02 Attend class
