@@ -4,3 +4,5 @@
 ZCZC W00 5 L03 Setting up GitHub
 ZCZC W00 1 L03 Fixing typo in mylog.txt
 ZCZC W00 120 L02 Attend class
+ZCZC W00 120 L02 Attend class
+ZCZC W00 120 L73 Bermain Genshin Impact
