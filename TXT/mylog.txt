@@ -13,6 +13,15 @@ ZCZC W01 180 L11 Finished setting up Git on Linux
 ZCZC W01 60 L11 Finished decorating GitHub Page
 ZCZC W02 120 L02 Attend class
 ZCZC W02 120 L02 Attend class
-ZCZC W02 60 L12 Finished creating and exporting my pubkey
-ZCZC W02 30 L12 Finished updating links and ranking other's links
-ZCZC W02 10 L12 Hash /TXT (after this)
+ZCZC W02 60 L11 Read Ch. 16 & 17
+ZCZC W02 20 L12 Tried demos
+ZCZC W02 180 L13 Watched Cyber Security Introduction
+ZCZC W02 5 L14 Generate GPG key pair
+ZCZC W02 5 L15 Listed all GPG keys
+ZCZC W02 5 L16 Imported ospubkey.txt
+ZCZC W02 5 L17 Signed OS pubkey
+ZCZC W02 5 L18 Exported my pubkey to mypubkey.txt
+ZCZC W02 15 L19 Links updated
+ZCZC W02 30 L20 Reviewed and ranked peer links
+ZCZC W02 5 L09 Copied myscript.sh
+ZCZC W02 10 L09 Hash generated
