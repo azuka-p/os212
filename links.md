@@ -7,4 +7,6 @@ It has most of the information you need for this course such as a step-by-step g
 2. [OS10 Slides](https://www.os-book.com/OS10/slide-dir/)<br>
 Useful slides that cover the entirety (I think?) of this course learning materials.<br>
 3. [Pull and Push from/to GitHub](https://osp4diss.vlsm.org/osp-114.html)<br>
-I'm going to put this link here because I keep forgetting about it.
+The 4 Git Mantras.
+4. [Mounting a Disk](https://osp4diss.vlsm.org/W03-03.html)<br>
+You need to manually mount the disk everytime you reboot.
