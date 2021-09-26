@@ -25,3 +25,8 @@ ZCZC W02 15 L19 Links updated
 ZCZC W02 30 L20 Reviewed and ranked peer links
 ZCZC W02 5 L09 Copied myscript.sh
 ZCZC W02 10 L09 Hash generated
+ZCZC W03 120 L02 Attend class
+ZCZC W03 120 L02 Attend class
+ZCZC W03 60 L11 Read Ch. 13, 14, and 15
+ZCZC W03 60 L12 Tried Week03 FUSE demo
+ZCZC W03 40 L13 Tried answering a few questions
