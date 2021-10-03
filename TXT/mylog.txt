@@ -36,3 +36,14 @@ ZCZC W03 8 L16 Links updated
 ZCZC W03 15 L17 Reviewed peer links
 ZCZC W03 10 L18 Logs updated
 ZCZC W03 5 L19 Submit Week03 Assignment
+ZCZC W04 120 L02 Attend class
+ZCZC W04 120 L02 Attend class
+ZCZC W04 30 L11 Read Ch.9
+ZCZC W04 60 L12 Tried Week04 demos
+ZCZC W04 40 L13 Tried solving a few questions
+ZCZC W04 5 L14 Package List 2 installed
+ZCZC W04 20 L15 Extract WEEK04 file thingy, compiled TLPI, moved result to /RESULT/W04
+ZCZC W04 5 L16 Links updated
+ZCZC W04 15 L17 Peer links reviewed
+ZCZC W04 10 L18 Logs updated
+ZCZC W04 5 L19 Submit W04 Assignment
