@@ -47,3 +47,13 @@ ZCZC W04 5 L16 Links updated
 ZCZC W04 15 L17 Peer links reviewed
 ZCZC W04 10 L18 Logs updated
 ZCZC W04 5 L19 Submit W04 Assignment
+ZCZC W05 120 L02 Attend class
+ZCZC W05 120 L02 Attend class
+ZCZC W05 30 L11 Read Ch.10
+ZCZC W05 30 L12 Tried Week05 demo (without a few of the last steps and I did it on my Virtual Guest)
+ZCZC W05 60 L13 Tried answering previous MidTerm problems
+ZCZC W05 40 L14 Did all of it (4, a, b, c, d)
+ZCZC W05 10 L15 Links updated
+ZCZC W05 15 L17 Peer links reviewed
+ZCZC W05 15 L18 Logs updated
+ZCZC W05 5 L19 Submit W05 Assignment

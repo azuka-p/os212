@@ -12,3 +12,5 @@ The 4 Git Mantras.
 You need to manually mount the disk everytime you reboot.
 5. [C Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)<br>
 Informations on memory allocation methods (malloc, calloc, realloc, free).
+6. [Why and How Facebook Go Down?](https://youtu.be/Bie32IZlMtY)<br>
+Unrelated to the current week's learning materials but I found this really interesting (and pepega).
