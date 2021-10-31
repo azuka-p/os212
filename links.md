@@ -14,3 +14,5 @@ You need to manually mount the disk everytime you reboot.
 Informations on memory allocation methods (malloc, calloc, realloc, free).
 6. [Why and How Facebook Go Down?](https://youtu.be/Bie32IZlMtY)<br>
 Unrelated to the current week's learning materials but I found this really interesting (and pepega).
+7. [Concurrency Explained](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency)<br>
+"Concurrency is multiple computations running simultaneously".

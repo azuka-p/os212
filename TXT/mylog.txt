@@ -57,3 +57,11 @@ ZCZC W05 10 L15 Links updated
 ZCZC W05 15 L17 Peer links reviewed
 ZCZC W05 15 L18 Logs updated
 ZCZC W05 5 L19 Submit W05 Assignment
+ZCZC W06 60 L11 Read Ch.3 & Ch.4
+ZCZC W06 100 L12 Tried Week06 demo
+ZCZC W06 60 L13 Tried answering previous MidTerm problems
+ZCZC W06 40 L14 Did all of it (4, a, b, c, d)
+ZCZC W06 10 L15 Links updated
+ZCZC W06 15 L17 Peer links reviewed
+ZCZC W06 15 L18 Logs updated
+ZCZC W06 5 L19 Submit W06 Assignment
