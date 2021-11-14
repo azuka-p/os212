@@ -18,3 +18,5 @@ Unrelated to the current week's learning materials but I found this really inter
 "Concurrency is multiple computations running simultaneously".
 8. [Deadlock Explained](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 Deadlock explained in a 5 minutes video.
+9. [LFF v11.0 Full Guide](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Official LFF Guide for version 11.0.
