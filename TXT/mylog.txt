@@ -84,3 +84,13 @@ ZCZC W08 10 L16 Links updated
 ZCZC W08 15 L18 Peer links reviewed
 ZCZC W08 15 L19 Logs updated
 ZCZC W08 5 L20 Submit W07 Assignment
+ZCZC W09 120 L02 Attend class
+ZCZC W09 120 L02 Attend class
+ZCZC W09 40 L11 Read Ch.11
+ZCZC W09 60 L12 Tried Week08 demo
+ZCZC W09 30 L13 Tried answering a few of previous FinalTerm problems
+ZCZC W09 300 L14 Did everything from LFS 11.0 chapter 5-7
+ZCZC W09 10 L15 Links updated
+ZCZC W09 15 L17 Peer links reviewed
+ZCZC W09 15 L18 Logs updated
+ZCZC W09 5 L19 Submit W09 Assignment

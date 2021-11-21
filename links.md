@@ -20,3 +20,5 @@ Unrelated to the current week's learning materials but I found this really inter
 Deadlock explained in a 5 minutes video.
 9. [LFF v11.0 Full Guide](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 Official LFF Guide for version 11.0.
+10. [$LFS Check](https://www.linuxfromscratch.org/lfs/view/11.0-systemd/chapter02/aboutlfs.html)<br>
+Always do a check before doing something that uses $LFS in it.
