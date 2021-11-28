@@ -22,3 +22,5 @@ Deadlock explained in a 5 minutes video.
 Official LFF Guide for version 11.0.
 10. [$LFS Check](https://www.linuxfromscratch.org/lfs/view/11.0-systemd/chapter02/aboutlfs.html)<br>
 Always do a check before doing something that uses $LFS in it.
+11. [LFS 11.0 Video Guide](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+A guide on how to do LFS 11.0 from start to finish.

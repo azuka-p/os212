@@ -94,3 +94,11 @@ ZCZC W09 10 L15 Links updated
 ZCZC W09 15 L17 Peer links reviewed
 ZCZC W09 15 L18 Logs updated
 ZCZC W09 5 L19 Submit W09 Assignment
+ZCZC W10 90 L02 Attend class
+ZCZC W10 30 L02 Attend class
+ZCZC W10 20 L11 Read Ch.12
+ZCZC W10 30 L13 Tried answering a few of previous FinalTerm problems
+ZCZC W10 10 L15 Links updated
+ZCZC W10 15 L17 Peer links reviewed
+ZCZC W10 15 L18 Logs updated
+ZCZC W10 5 L19 Submit W10 Assignment
